@@ -1,0 +1,76 @@
+.color--red {
+    color: #F05050;
+}
+
+.color--blue {
+    color: #23B7E5;
+}
+
+.color--gray {
+    color: #898f96;
+}
+
+.color--facebook {
+    color: #395799;
+}
+
+.color--instagram {
+    color: #E85257;
+}
+
+.size--2rem {
+    font-size: 2rem;
+}
+
+.size--14px {
+    font-size: 14px;
+}
+
+.color--green {
+    color: #01724f;
+}
+
+.color--star {
+    color: #ffd900 !important;
+}
+
+.color--star a {
+    color: #ffd900;
+}
+
+.color--star a:hover {
+    color: #ffc400;
+    font-size: 20px;
+}
+
+.cursor--pointer {
+    cursor: pointer;
+}
+
+.btn__search {
+    color: #fff;
+    background-color: #01724f;
+    border-color: #01724f;
+}
+
+.bg--white {
+    background-color: #fff;
+}
+
+.color--white {
+    color: #fff;
+}
+
+.text--bold {
+    font-weight: 600;
+}
+
+.page-item.active .page-link {
+    background-color: #011c26 !important;
+    border-color: #042c1f !important;
+    color: #fff !important;
+}
+
+.page-link {
+    color: #042c1f !important;
+}
